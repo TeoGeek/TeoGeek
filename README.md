@@ -1,12 +1,9 @@
 <img align="right" src="https://count.getloli.com/get/@:MetaingCoder">
 
-# 🙌 Hi! I'm MetaingCoder
+#  # Hi, I'm TeoGeek.
 
-🫡 Hey! I'm just an ordinary person, but a curious and passionate developer who loves creating and learning. I enjoy turning ideas into projects, tackling challenges along the way, and finding new ways to make things better.
+I’m a developer focused on software development, technology exploration, and building practical solutions. I enjoy transforming ideas into well-crafted projects, exploring new technologies, and continuously improving my skills through hands-on experience.
 
-**“Keep learning, keep building.”**
-
----
 
 ## **GitHub Activity**
 
@@ -17,16 +14,14 @@
   <img alt="github contribution grid snake" src="https://github.com/MetaingCoder/MetaingCoder/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
-
 ## 💻 Tech Stack
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
@@ -37,7 +32,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
----
 
 ## 📫 Contact / Links
 
@@ -47,10 +41,3 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@becompile?si=VZ9nsGNSniY4bHxj)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/becompiles)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/becompile?igsh=MWxmZ3ZwajJyemIwbg==)
-
----
-
-## 📊 GitHub Stats
-
-![MetaingCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaingCoder&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MetaingCoder&layout=compact&theme=tokyonight)
